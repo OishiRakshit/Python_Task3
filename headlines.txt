@@ -1,0 +1,24 @@
+Ultrathin business card runs a fluid simulation
+HorizonDB, a geocoding engine in Rust that replaces Elasticsearch
+Astronomy Photographer of the Year 2025 shortlist
+AI must RTFM: Why tech writers are becoming context curators
+The Rise of Ritual Features: Why Platforms Are Adding Daily Puzzle Games
+Linear sent me down a local-first rabbit hole
+What Does Consulting Do?
+Show HN: Synchrotron, a real-time DSP engine in pure Python
+Food, housing, & health care costs are a source of major stress for many people
+Telefon Hírmondó: Listen to news and music electronically, in 1893
+Apple's history is hiding in a Mac font
+AI is impressive because we've failed at personal computing
+How Attention Sinks Keep Language Models Stable
+Show HN: Trayce – “Burp Suite for developers”
+Getting Good Results from Claude Code
+Flipper Zero dark web firmware bypasses rolling code security
+Show HN: Aha Domain Search
+Exit Tax: Leave Germany before your business gets big
+GPT-5: Key characteristics, pricing and system card
+FLUX.1-Krea and the Rise of Opinionated Models
+OpenAI's new open-source model is basically Phi-5
+Complex Iterators Are Slow
+Virtual Linux Devices on ARM64
+A love letter to my future employer (2020)
